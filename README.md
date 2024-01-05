@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/04/17/28/36/240_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg)]
+[![MasterHead]([https://t3.ftcdn.net/jpg/04/17/28/36/240_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg](https://about.codecov.io/wp-content/uploads/2020/09/github-actions.png))]
 <h1 align="center">Hi 👋, I'm Karan Purohit</h1>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/240_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <h3 align="center">A passionate fullstack developer from India</h3>
